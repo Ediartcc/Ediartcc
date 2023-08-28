@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and making game
 - 🌱 I’m currently learning 2d game
 - 💞️ I’m looking to achieved my goals
-- 📫 How to reach me edihartono2001@gmail.com
+- 📫 How to reach me https://t.me/Shochan82
 
 <!---
 Ediartcc/Ediartcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
